@@ -498,6 +498,7 @@
 				9A8B7AAD1EE789D600B0C826 /* Release */,
 			);
 			defaultConfigurationIsVisible = 0;
+			defaultConfigurationName = Release;
 		};
 		9A8B7AAE1EE789D600B0C826 /* Build configuration list for PBXNativeTarget "MathQuizGeneratorTests" */ = {
 			isa = XCConfigurationList;
@@ -506,6 +507,7 @@
 				9A8B7AB01EE789D600B0C826 /* Release */,
 			);
 			defaultConfigurationIsVisible = 0;
+			defaultConfigurationName = Release;
 		};
 		9A8B7AB11EE789D600B0C826 /* Build configuration list for PBXNativeTarget "MathQuizGeneratorUITests" */ = {
 			isa = XCConfigurationList;
@@ -514,6 +516,7 @@
 				9A8B7AB31EE789D600B0C826 /* Release */,
 			);
 			defaultConfigurationIsVisible = 0;
+			defaultConfigurationName = Release;
 		};
 /* End XCConfigurationList section */
 	};
